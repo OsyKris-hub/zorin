@@ -2,7 +2,7 @@ using ItsRandomLife.Domain.Interfaces;
 using ItsRandomLife.Domain.Models;
 using Microsoft.AspNetCore.Mvc;
 
-namespace ItsRandomLife.Domain.API;
+namespace ItsRandomLife.API;
 
 [Route("api/[controller]")]
 [ApiController]
